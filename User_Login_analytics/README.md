@@ -35,7 +35,7 @@ This repo may contain projects related to:
 
 **Kubendran M**  
 M.Sc. Data Science | SQL & Data Analytics Enthusiast  
-📧 your.email@example.com
+📧 Kubendran292@gmail.com
 
 ---
 
